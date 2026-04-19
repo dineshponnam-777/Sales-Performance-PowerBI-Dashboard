@@ -72,7 +72,8 @@ This project presents an interactive Sales Performance Dashboard built using Pow
 
 📷 Dashboard Preview
 
-<img width="1920" height="1080" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/a027d966-10b4-477e-9914-2fa4eca2aec6" />
+<img width="1315" height="693" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/c1166ce1-d04b-4fb0-84b7-662ec57ea894" />
+
 
 ---
 
